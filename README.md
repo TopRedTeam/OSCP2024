@@ -15,4 +15,4 @@
 
 更多更新资料（微信公众号：TopRedTeam）
 
-![](https://github.com/TopRedTeam/OSCP2024/blob/main/qrcode.jpg)
+![](./qrcode.jpg)
